@@ -1,0 +1,5 @@
+K001|Arimbi|Solo
+K002|Bagus|Bogor
+K003|Charles|Lumajang
+K004|Dodit|Kaliurang
+K005|Rudy|Surabaya
