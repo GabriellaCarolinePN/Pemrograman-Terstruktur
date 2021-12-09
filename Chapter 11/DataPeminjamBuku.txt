@@ -1,0 +1,6 @@
+B001|Agus|Pemrograman Java|2021-12-08|2021-12-15
+B002|Budi|Pemrograman Ruby|2021-12-08|2021-12-15
+B003|Charles|Pemrograman Python|2021-12-08|2021-12-15
+B004|Gilang|MySQL|2021-12-09|2021-12-16
+B005|Owa|Belajar Database Dari Nol|2021-12-09|2021-12-16
+B006|Jeon Wonwoo|Puisi dalam Sendu|2021-12-09|2021-12-16
